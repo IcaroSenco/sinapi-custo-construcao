@@ -1,0 +1,109 @@
+periodo,nivel,localidade_id,localidade,variavel_id,variavel,valor
+2026-10,N3,11,Rondônia,48,Custo médio m² - moeda corrente,2196.18
+2026-10,N3,12,Acre,48,Custo médio m² - moeda corrente,2338.39
+2026-10,N3,13,Amazonas,48,Custo médio m² - moeda corrente,2004.68
+2026-10,N3,14,Roraima,48,Custo médio m² - moeda corrente,2191.40
+2026-10,N3,15,Pará,48,Custo médio m² - moeda corrente,2039.71
+2026-10,N3,16,Amapá,48,Custo médio m² - moeda corrente,2032.98
+2026-10,N3,17,Tocantins,48,Custo médio m² - moeda corrente,2088.94
+2026-10,N3,21,Maranhão,48,Custo médio m² - moeda corrente,1977.30
+2026-10,N3,22,Piauí,48,Custo médio m² - moeda corrente,1879.63
+2026-10,N3,23,Ceará,48,Custo médio m² - moeda corrente,1890.17
+2026-10,N3,24,Rio Grande do Norte,48,Custo médio m² - moeda corrente,1893.33
+2026-10,N3,25,Paraíba,48,Custo médio m² - moeda corrente,1929.76
+2026-10,N3,26,Pernambuco,48,Custo médio m² - moeda corrente,1799.75
+2026-10,N3,27,Alagoas,48,Custo médio m² - moeda corrente,1844.58
+2026-10,N3,28,Sergipe,48,Custo médio m² - moeda corrente,1778.93
+2026-10,N3,29,Bahia,48,Custo médio m² - moeda corrente,1883.69
+2026-10,N3,31,Minas Gerais,48,Custo médio m² - moeda corrente,1866.71
+2026-10,N3,32,Espírito Santo,48,Custo médio m² - moeda corrente,1813.22
+2026-10,N3,33,Rio de Janeiro,48,Custo médio m² - moeda corrente,2178.29
+2026-10,N3,35,São Paulo,48,Custo médio m² - moeda corrente,2096.45
+2026-10,N3,41,Paraná,48,Custo médio m² - moeda corrente,2166.36
+2026-10,N3,42,Santa Catarina,48,Custo médio m² - moeda corrente,2255.42
+2026-10,N3,43,Rio Grande do Sul,48,Custo médio m² - moeda corrente,1981.13
+2026-10,N3,50,Mato Grosso do Sul,48,Custo médio m² - moeda corrente,1953.53
+2026-10,N3,51,Mato Grosso,48,Custo médio m² - moeda corrente,2141.55
+2026-10,N3,52,Goiás,48,Custo médio m² - moeda corrente,2025.78
+2026-10,N3,53,Distrito Federal,48,Custo médio m² - moeda corrente,2062.82
+2026-10,N3,11,Rondônia,2119,Custo médio m² - componente material - moeda corrente,1308.12
+2026-10,N3,12,Acre,2119,Custo médio m² - componente material - moeda corrente,1441.10
+2026-10,N3,13,Amazonas,2119,Custo médio m² - componente material - moeda corrente,1148.43
+2026-10,N3,14,Roraima,2119,Custo médio m² - componente material - moeda corrente,1252.94
+2026-10,N3,15,Pará,2119,Custo médio m² - componente material - moeda corrente,1243.73
+2026-10,N3,16,Amapá,2119,Custo médio m² - componente material - moeda corrente,1261.58
+2026-10,N3,17,Tocantins,2119,Custo médio m² - componente material - moeda corrente,1293.33
+2026-10,N3,21,Maranhão,2119,Custo médio m² - componente material - moeda corrente,1205.59
+2026-10,N3,22,Piauí,2119,Custo médio m² - componente material - moeda corrente,1127.34
+2026-10,N3,23,Ceará,2119,Custo médio m² - componente material - moeda corrente,1140.85
+2026-10,N3,24,Rio Grande do Norte,2119,Custo médio m² - componente material - moeda corrente,1135.92
+2026-10,N3,25,Paraíba,2119,Custo médio m² - componente material - moeda corrente,1110.24
+2026-10,N3,26,Pernambuco,2119,Custo médio m² - componente material - moeda corrente,1049.81
+2026-10,N3,27,Alagoas,2119,Custo médio m² - componente material - moeda corrente,1104.79
+2026-10,N3,28,Sergipe,2119,Custo médio m² - componente material - moeda corrente,1036.59
+2026-10,N3,29,Bahia,2119,Custo médio m² - componente material - moeda corrente,1090.32
+2026-10,N3,31,Minas Gerais,2119,Custo médio m² - componente material - moeda corrente,1058.13
+2026-10,N3,32,Espírito Santo,2119,Custo médio m² - componente material - moeda corrente,1018.17
+2026-10,N3,33,Rio de Janeiro,2119,Custo médio m² - componente material - moeda corrente,1143.75
+2026-10,N3,35,São Paulo,2119,Custo médio m² - componente material - moeda corrente,1112.45
+2026-10,N3,41,Paraná,2119,Custo médio m² - componente material - moeda corrente,1136.15
+2026-10,N3,42,Santa Catarina,2119,Custo médio m² - componente material - moeda corrente,1152.15
+2026-10,N3,43,Rio Grande do Sul,2119,Custo médio m² - componente material - moeda corrente,1143.18
+2026-10,N3,50,Mato Grosso do Sul,2119,Custo médio m² - componente material - moeda corrente,1137.49
+2026-10,N3,51,Mato Grosso,2119,Custo médio m² - componente material - moeda corrente,1272.21
+2026-10,N3,52,Goiás,2119,Custo médio m² - componente material - moeda corrente,1172.09
+2026-10,N3,53,Distrito Federal,2119,Custo médio m² - componente material - moeda corrente,1242.20
+2026-10,N3,11,Rondônia,2120,Custo médio m² - componente mão-de-obra - moeda corrente,888.06
+2026-10,N3,12,Acre,2120,Custo médio m² - componente mão-de-obra - moeda corrente,897.29
+2026-10,N3,13,Amazonas,2120,Custo médio m² - componente mão-de-obra - moeda corrente,856.25
+2026-10,N3,14,Roraima,2120,Custo médio m² - componente mão-de-obra - moeda corrente,938.46
+2026-10,N3,15,Pará,2120,Custo médio m² - componente mão-de-obra - moeda corrente,795.98
+2026-10,N3,16,Amapá,2120,Custo médio m² - componente mão-de-obra - moeda corrente,771.40
+2026-10,N3,17,Tocantins,2120,Custo médio m² - componente mão-de-obra - moeda corrente,795.61
+2026-10,N3,21,Maranhão,2120,Custo médio m² - componente mão-de-obra - moeda corrente,771.71
+2026-10,N3,22,Piauí,2120,Custo médio m² - componente mão-de-obra - moeda corrente,752.29
+2026-10,N3,23,Ceará,2120,Custo médio m² - componente mão-de-obra - moeda corrente,749.32
+2026-10,N3,24,Rio Grande do Norte,2120,Custo médio m² - componente mão-de-obra - moeda corrente,757.41
+2026-10,N3,25,Paraíba,2120,Custo médio m² - componente mão-de-obra - moeda corrente,819.52
+2026-10,N3,26,Pernambuco,2120,Custo médio m² - componente mão-de-obra - moeda corrente,749.94
+2026-10,N3,27,Alagoas,2120,Custo médio m² - componente mão-de-obra - moeda corrente,739.79
+2026-10,N3,28,Sergipe,2120,Custo médio m² - componente mão-de-obra - moeda corrente,742.34
+2026-10,N3,29,Bahia,2120,Custo médio m² - componente mão-de-obra - moeda corrente,793.37
+2026-10,N3,31,Minas Gerais,2120,Custo médio m² - componente mão-de-obra - moeda corrente,808.58
+2026-10,N3,32,Espírito Santo,2120,Custo médio m² - componente mão-de-obra - moeda corrente,795.05
+2026-10,N3,33,Rio de Janeiro,2120,Custo médio m² - componente mão-de-obra - moeda corrente,1034.54
+2026-10,N3,35,São Paulo,2120,Custo médio m² - componente mão-de-obra - moeda corrente,984.00
+2026-10,N3,41,Paraná,2120,Custo médio m² - componente mão-de-obra - moeda corrente,1030.21
+2026-10,N3,42,Santa Catarina,2120,Custo médio m² - componente mão-de-obra - moeda corrente,1103.27
+2026-10,N3,43,Rio Grande do Sul,2120,Custo médio m² - componente mão-de-obra - moeda corrente,837.95
+2026-10,N3,50,Mato Grosso do Sul,2120,Custo médio m² - componente mão-de-obra - moeda corrente,816.04
+2026-10,N3,51,Mato Grosso,2120,Custo médio m² - componente mão-de-obra - moeda corrente,869.34
+2026-10,N3,52,Goiás,2120,Custo médio m² - componente mão-de-obra - moeda corrente,853.69
+2026-10,N3,53,Distrito Federal,2120,Custo médio m² - componente mão-de-obra - moeda corrente,820.62
+2026-10,N3,11,Rondônia,1198,Custo médio m² - variação percentual em doze meses,5.51
+2026-10,N3,12,Acre,1198,Custo médio m² - variação percentual em doze meses,9.92
+2026-10,N3,13,Amazonas,1198,Custo médio m² - variação percentual em doze meses,6.09
+2026-10,N3,14,Roraima,1198,Custo médio m² - variação percentual em doze meses,7.52
+2026-10,N3,15,Pará,1198,Custo médio m² - variação percentual em doze meses,6.82
+2026-10,N3,16,Amapá,1198,Custo médio m² - variação percentual em doze meses,6.45
+2026-10,N3,17,Tocantins,1198,Custo médio m² - variação percentual em doze meses,8.18
+2026-10,N3,21,Maranhão,1198,Custo médio m² - variação percentual em doze meses,8.55
+2026-10,N3,22,Piauí,1198,Custo médio m² - variação percentual em doze meses,6.61
+2026-10,N3,23,Ceará,1198,Custo médio m² - variação percentual em doze meses,6.15
+2026-10,N3,24,Rio Grande do Norte,1198,Custo médio m² - variação percentual em doze meses,8.38
+2026-10,N3,25,Paraíba,1198,Custo médio m² - variação percentual em doze meses,5.19
+2026-10,N3,26,Pernambuco,1198,Custo médio m² - variação percentual em doze meses,7.60
+2026-10,N3,27,Alagoas,1198,Custo médio m² - variação percentual em doze meses,7.39
+2026-10,N3,28,Sergipe,1198,Custo médio m² - variação percentual em doze meses,6.62
+2026-10,N3,29,Bahia,1198,Custo médio m² - variação percentual em doze meses,8.69
+2026-10,N3,31,Minas Gerais,1198,Custo médio m² - variação percentual em doze meses,6.54
+2026-10,N3,32,Espírito Santo,1198,Custo médio m² - variação percentual em doze meses,6.44
+2026-10,N3,33,Rio de Janeiro,1198,Custo médio m² - variação percentual em doze meses,5.48
+2026-10,N3,35,São Paulo,1198,Custo médio m² - variação percentual em doze meses,6.13
+2026-10,N3,41,Paraná,1198,Custo médio m² - variação percentual em doze meses,6.54
+2026-10,N3,42,Santa Catarina,1198,Custo médio m² - variação percentual em doze meses,6.41
+2026-10,N3,43,Rio Grande do Sul,1198,Custo médio m² - variação percentual em doze meses,5.65
+2026-10,N3,50,Mato Grosso do Sul,1198,Custo médio m² - variação percentual em doze meses,7.40
+2026-10,N3,51,Mato Grosso,1198,Custo médio m² - variação percentual em doze meses,7.71
+2026-10,N3,52,Goiás,1198,Custo médio m² - variação percentual em doze meses,9.79
+2026-10,N3,53,Distrito Federal,1198,Custo médio m² - variação percentual em doze meses,7.22
